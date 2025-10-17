@@ -242,11 +242,4 @@ You are free to use, modify, and distribute this project.
 
 ---
 
-✅ Let me know if you want me to:
 
-* Add a **Streamlit web app** for predictions
-* Create a **model.pkl** and **inference script**
-* Write a **Project Report / PPT**
-* Build a **Dashboard** with visualizations
-
-👉 Just say the word, I’ll do it!
